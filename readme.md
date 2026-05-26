@@ -85,5 +85,8 @@
 ## 补充说明
 
 好吧非常抱歉，因为使用chrome和Selenium框架来模拟点击，还需要做一个chrome浏览器和Selenium框架的适配。具体可以搜索各种博客。需要下载chrome驱动：ChromeDriver
-博客可参考：https://cloud.tencent.com/developer/article/2300340。所以光有一个exe是不行的。
+
+博客可参考：https://cloud.tencent.com/developer/article/2300340。
+
+所以光有一个exe是不行的。
 
